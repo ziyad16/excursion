@@ -1,0 +1,27 @@
+body{
+	background: black;
+	text-align: center;
+	color: white;
+}
+h1{
+	
+	font-weight: normal;
+	font-family: Verdana;
+	font-size: 50px;
+}
+.downapp{
+	color: aquamarine;
+	font-size: 16px;
+	}
+h2{
+	font-weight: 300px;
+	font-size: 42px;
+}
+p{
+	font-size: 21px;
+	color: gray;
+}
+.excur{
+	text-align: right;
+	color: gray;
+}
